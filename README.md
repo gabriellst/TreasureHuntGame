@@ -14,11 +14,11 @@ All Treasure Hunt's captions are in portuguese.
 
 ![](images/ingame0.png)
 
-You and your opponent are supposed to find as many treasure chests as possible, each one of them increase your score by 100 points, but beware of the kraken chests, they reduce your score by 50 points!
+You are supposed to find as many treasure chests as possible, each one of them increase your score by 100 points, but beware of the kraken chests, they reduce your score by 50 points!
 
 ![](images/ingame2.png)
 
-### Numbers revealed when a cell is clicked indicate how many **treasure** chests are around that cell in a *+* direction, use that information to guide your playthrough.
+### When you click on a cell, it's revealed what's underneath it. Numbers indicate how many **treasure** chests are around that cell in a *+* direction, use that information to guide your playthrough.
 
 ### At the end, when all cells are revealed, the player with the highest score wins!
 
