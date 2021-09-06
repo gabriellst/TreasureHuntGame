@@ -1,6 +1,6 @@
 # The Treasure Hunt!
 
-Hey everyone! My first college end-of-semester final project consisted in creating a game similar to minefield games.
+Hey everyone! My first end-of-semester final project at UFPB consisted in creating a game similar to minefield games.
 
 ### Here's what my team got up with - Treasure Hunt!
 
