@@ -1,10 +1,8 @@
 # The Treasure Hunt!
 
-Hey everyone, my first semester's final project consisted of creating a game similar to minefield games.
+Hey everyone! My first college end-of-semester final project consisted in creating a game similar to minefield games.
 
-All Treasure Hunt's captions are in portuguese.
-
-### Here's what my team got up with.
+### Here's what my team got up with - Treasure Hunt!
 
 ![](images/menu.png)
 
@@ -42,8 +40,5 @@ All Treasure Hunt's assets animation were developed by manipulating stock images
 ### William Xavier - Data Science and Artificial Intelligence student at Universidade Federal da Paraíba - UFPB
 * Github profile: https://github.com/WilliamXnl
 
-
 ### Caio Vinícius - Data Science and Analytics student at the University of Calgary
 * Github profile: https://github.com/Caioviniciusb
-
-
