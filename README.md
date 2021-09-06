@@ -8,7 +8,7 @@ Hey everyone! My first college end-of-semester final project consisted in creati
 
 ## Game Experience
 
-### Treasure Hunt is a 1v1 turn based minefield-like game.
+### Treasure Hunt is a 1v1 turn-based minefield-like game.
 
 ![](images/ingame0.png)
 
