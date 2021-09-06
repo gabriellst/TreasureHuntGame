@@ -18,11 +18,15 @@ You and your opponent are supposed to find as many treasure chests as possible, 
 
 ![](images/ingame2.png)
 
-### Each cell number indicates how many **treasure** chests are around them in a *+* direction, use that information to guide your playthrough.
+### Numbers revealed when a cell is clicked indicate how many **treasure** chests are around that cell in a *+* direction, use that information to guide your playthrough.
 
-### Animations
+### At the end, when all cells are revealed, the player with the highest score wins!
 
-All Treasure Hunt's animation and assets were developed by manipulating stock images with the use of Photoshop and After effects.
+![](images/ingame3.png)
+
+## Animations
+
+All Treasure Hunt's assets animation were developed by manipulating stock images with the use of Adobe Photoshop and After effects.
 
 ## Libraries used
 
@@ -34,14 +38,12 @@ All Treasure Hunt's animation and assets were developed by manipulating stock im
 
 ### Gabriel Araújo - Data Science and Artificial Intelligence student at Universidade Federal da Paraíba - UFPB
 * Github profile: https://github.com/gabriellst
-![](images/gabriel.png)
 
 ### William Xavier - Data Science and Artificial Intelligence student at Universidade Federal da Paraíba - UFPB
 * Github profile: https://github.com/WilliamXnl
-![](images/william.png)
+
 
 ### Caio Vinícius - Data Science and Analytics student at the University of Calgary
 * Github profile: https://github.com/Caioviniciusb
-![](images/caio.png)
 
 
