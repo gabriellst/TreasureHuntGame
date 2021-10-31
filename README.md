@@ -24,7 +24,7 @@ You are supposed to find as many treasure chests as possible, each one of them i
 
 ## Animations
 
-All Treasure Hunt's assets animation were developed by manipulating stock images with the use of Adobe Photoshop and After effects.
+All Treasure Hunt's assets animations were developed by manipulating stock images in Adobe Photoshop and After effects.
 
 ## Libraries used
 
